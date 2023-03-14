@@ -1,6 +1,17 @@
 .App {
   text-align: center;
+  color:white;
+  font-size: 2rem;
+  margin:5px 5px;
+  font-weight: 700;
 }
+
+.back{
+  height:100%;
+  width: 100%;
+  margin:0px;
+}
+
 
 .App-logo {
   height: 40vmin;
